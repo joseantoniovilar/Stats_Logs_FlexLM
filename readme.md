@@ -32,6 +32,6 @@
 
 1. Para recrear el poroyecto se puede utilizar  pip install -r requirements.txt
 
-2. Con la funcion `flexlm_log_leer` del fichero `flexlm_log.py`  se trata de leer los log que genera el software felxlm estrayendo en un dataframe la informacion relevante: Fecha, licencia concedidad, licencuas retornadas, modulos utilizados, equipos que se conectan.
+2. Con la funcion `flexlm_log_leer` del fichero `flexlm_log.py`  se leer el log que genera el software felxlm estrayendo  informacion relevante: Fecha, licencia concedidad, licencuas retornadas, modulos utilizados, equipos que se conectan en un dataframe.
 
 
