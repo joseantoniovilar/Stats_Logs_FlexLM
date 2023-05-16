@@ -12,7 +12,7 @@
     |   readme.md			    <- Fichero que describe el proyecto.
     |   requirements.txt	    <- El fichero de requerimientos
     |
-    +---csv			    	    <- fichero csv depuesto de tratar los loogs con flexlm_log.py
+    +---csv			    	    <- fichero csv generado despeus de leer los logs de flexlm con flexlm_log.py
     |       autodesk.csv
     |       flexlm_log.csv
     |
@@ -21,11 +21,11 @@
     |       maple.log
     |       matlab.log
     |
-    +---notebook			    <- Estudio exploratorio de los logs depues de leer los logs
+    +---notebook			    <- Estudio exploratorio de los logs depues de tratados los logs
     |       flex_log_upm.ipynb
     |
     \---python
-            flexlm_log.py	    <- Permite leer y tratar los logs. Retorna un dataframe.
+            flexlm_log.py	    <- Permite leer la informacion relevante de los logs de felxlm. Retorna un dataframe.
 ```
 
 ## Uso
