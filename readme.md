@@ -21,11 +21,11 @@
     |       maple.log
     |       matlab.log
     |
-    +---notebook			    <- Estudio exploratorio de los logs depues de tratados los logs
+    +---notebook			    <- Estudio exploratorio de los logs
     |       flex_log_upm.ipynb
     |
     \---python
-            flexlm_log.py	    <- Permite leer la informacion relevante de los logs de felxlm. Retorna un dataframe.
+            flexlm_log.py	    <- Permite leer la información relevante de los logs de FlexLM. Retorna un dataframe.
 ```
 
 ## Uso
