@@ -30,7 +30,7 @@
 
 ## Uso
 
-1. Para recrear el poroyecto se puede utilizar  pip install -r requirements.txt
+1. Para recrear el proyecto se puede utilizar  pip install -r requirements.txt
 
 2. Con la funcion `flexlm_log_leer` del fichero `flexlm_log.py`  se leer el log que genera el software flexlm estrayendo  informacion relevante: Fecha, licencia concedidad, licencuas retornadas, modulos utilizados, equipos que se conectan en un dataframe.
 
